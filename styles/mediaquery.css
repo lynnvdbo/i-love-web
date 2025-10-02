@@ -1,0 +1,13 @@
+body {
+    background: pink;
+    
+      @media (min-width: 30em) {
+        background: yellow;
+    }
+}
+
+h1{
+    font-size: 200px;
+    text-align: center;
+}
+
