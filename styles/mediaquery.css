@@ -1,8 +1,12 @@
 body {
-    background: pink;
+    background: yellow;
     
-      @media (min-width: 30em) {
-        background: yellow;
+      @media (min-width: 810px) {
+        background: rgb(122, 227, 174);
+    }
+
+          @media (min-width: 1110px) {
+        background: rgb(255, 148, 166);
     }
 }
 
